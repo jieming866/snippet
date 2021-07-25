@@ -6,7 +6,7 @@
 }
 
 cd "$1" 2>/dev/null || {
-    echo "2.6.x Kernel directory $1 not exist"\!
+    echo "2.6.x Kernel directory $1 not exist!"
     exit 1
 }
 
