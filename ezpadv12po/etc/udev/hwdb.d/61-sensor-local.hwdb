@@ -1,0 +1,2 @@
+sensor:modalias:acpi:NSA2513*:dmi:bvnAmericanMegatrendsInternational,LLC.:*:svnDefaultstring:pnDefaultstring:*:ct30:*
+ ACCEL_MOUNT_MATRIX=0, 1, 0; -1, 0, 0; 0, 0, 1

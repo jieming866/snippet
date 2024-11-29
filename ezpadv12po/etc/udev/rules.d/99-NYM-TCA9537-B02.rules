@@ -1,0 +1,5 @@
+ACTION!="remove", KERNEL=="event[0-9]*", \
+ENV{ID_VENDOR_ID}=="1234", \
+ENV{ID_MODEL_ID}=="abcd", \
+ENV{LIBINPUT_CALIBRATION_MATRIX}="-1 0 1 0 -1 1"
+
