@@ -1,0 +1,1 @@
+#define CONFIG_AMD8111_ETH 1

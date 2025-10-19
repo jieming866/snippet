@@ -1,0 +1,1 @@
+#define CONFIG_HANGCHECK_TIMER 1
